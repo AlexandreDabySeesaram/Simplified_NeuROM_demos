@@ -1,5 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A simplified 1D NeuROM demo !",
+    "section": "",
+    "text": "Welcome!\n\nThese demos are based on the NeuROM-py code .\nThe notebooks can be executed online with binder  (no download required).",
+    "crumbs": [
+      "{{< iconify fa6-solid:rocket width=17 title=HAL >}}",
+      "Home"
+    ]
+  },
+  {
     "objectID": "demos/1D_element_based.html",
     "href": "demos/1D_element_based.html",
     "title": "Element based 1D HideNN-FEM - ADAM training",
@@ -69,17 +80,6 @@
       "{{< iconify fa6-solid:rocket width=17 title=HAL >}}",
       "1D NeuROM",
       "Adam"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A simplified 1D NeuROM demo !",
-    "section": "",
-    "text": "Welcome!\n\nThese demos are based on the NeuROM-py code .\nThe notebooks can be executed online with binder  (no download required).",
-    "crumbs": [
-      "{{< iconify fa6-solid:rocket width=17 title=HAL >}}",
-      "Home"
     ]
   },
   {
