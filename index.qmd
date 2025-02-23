@@ -1,0 +1,20 @@
+---
+title: A simplified 1D NeuROM demo !
+image: logo.png
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/AlexandreDabySeesaram/Simplified_NeuROM_demos
+format:
+  html:
+    page-layout: full
+---
+
+# Welcome!
+
+* These demos are based on the [NeuROM-py code](https://pypi.org/project/NeuROM-Py/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14218478.svg)](https://doi.org/10.5281/zenodo.14218478).
+* The notebooks can be executed online with binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AlexandreDabySeesaram/Simplified_NeuROM_demos/main?urlpath=lab/tree/./demos/) (no download required).
+
