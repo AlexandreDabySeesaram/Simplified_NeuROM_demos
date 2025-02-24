@@ -17,10 +17,12 @@ website:
     #   - href: demos/1D_element_based.ipynb
     #     text: Simplified 1D NeuROM - Adam
     right:
+      - text: "{{< iconify fa6-solid:rocket width=17 title=Binder >}}"
+        href: https://mybinder.org/v2/gh/AlexandreDabySeesaram/simplified_1d_Neurom/main?urlpath=lab/tree/./demos/
       - icon: github
         href: https://github.com/AlexandreDabySeesaram/Simplified_NeuROM_demos
-      - text: "{{< iconify fa6-solid:rocket width=17 title=HAL >}}"
-        href: https://mybinder.org/v2/gh/AlexandreDabySeesaram/simplified_1d_Neurom/main?urlpath=lab/tree/./demos/
+      - text: "{{< iconify fa6-solid:download width=17 title=dl >}}"
+        href: https://github.com/AlexandreDabySeesaram/Simplified_NeuROM_demos/archive/refs/heads/master.zip
       - href: https://alexandredabyseesaram.github.io/
         text: Alexandre Daby-Seesaram's homepage
 
