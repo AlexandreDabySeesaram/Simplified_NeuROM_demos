@@ -21,7 +21,7 @@ website:
         href: https://mybinder.org/v2/gh/AlexandreDabySeesaram/simplified_1d_Neurom/main?urlpath=lab/tree/./demos/
       - icon: github
         href: https://github.com/AlexandreDabySeesaram/Simplified_NeuROM_demos
-      - text: "{{< iconify fa6-solid:download width=17 title=dl >}}"
+      - text: "{{< iconify fa6-solid:download width=17 title=download >}}"
         href: https://github.com/AlexandreDabySeesaram/Simplified_NeuROM_demos/archive/refs/heads/master.zip
       - href: https://alexandredabyseesaram.github.io/
         text: Alexandre Daby-Seesaram's homepage
